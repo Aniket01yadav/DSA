@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aniket01yadav/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aniket01yadav/DSA/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
