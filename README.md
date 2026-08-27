@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Aniket01yadav/DSA/tree/master/0205-isomorphic-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Aniket01yadav/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
