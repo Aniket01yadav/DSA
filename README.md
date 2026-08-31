@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Aniket01yadav/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aniket01yadav/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Aniket01yadav/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,7 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aniket01yadav/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Aniket01yadav/DSA/tree/master/0290-word-pattern) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
