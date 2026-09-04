@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aniket01yadav/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Quicksort
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aniket01yadav/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aniket01yadav/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Aniket01yadav/DSA/tree/master/0409-longest-palindrome) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Linked List
 |  |
 | ------- |
