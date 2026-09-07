@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket01yadav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Aniket01yadav/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Aniket01yadav/DSA/tree/master/0290-word-pattern) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket01yadav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aniket01yadav/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Aniket01yadav/DSA/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aniket01yadav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
