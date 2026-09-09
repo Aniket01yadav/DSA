@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3870-count-commas-in-range](https://github.com/Aniket01yadav/DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Aniket01yadav/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
 | ------- |
