@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aniket01yadav/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Aniket01yadav/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/Aniket01yadav/DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Aniket01yadav/DSA/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Aniket01yadav/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aniket01yadav/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Aniket01yadav/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 ## Sorting
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Aniket01yadav/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Aniket01yadav/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3870-count-commas-in-range](https://github.com/Aniket01yadav/DSA/tree/master/3870-count-commas-in-range) |
