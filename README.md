@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aniket01yadav/DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Aniket01yadav/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aniket01yadav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Aniket01yadav/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aniket01yadav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Ternary Search
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aniket01yadav/DSA/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
