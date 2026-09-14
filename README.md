@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aniket01yadav/DSA/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aniket01yadav/DSA/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/Aniket01yadav/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Aniket01yadav/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aniket01yadav/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0088-merge-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Aniket01yadav/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
 ## Stack
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Aniket01yadav/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
