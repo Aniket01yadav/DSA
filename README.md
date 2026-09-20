@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Aniket01yadav/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Aniket01yadav/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Aniket01yadav/DSA/tree/master/0409-longest-palindrome) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aniket01yadav/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aniket01yadav/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aniket01yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aniket01yadav/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
