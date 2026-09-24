@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aniket01yadav/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aniket01yadav/DSA/tree/master/0242-valid-anagram) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Aniket01yadav/DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Aniket01yadav/DSA/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Aniket01yadav/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Aniket01yadav/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Aniket01yadav/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Aniket01yadav/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Aniket01yadav/DSA/tree/master/0409-longest-palindrome) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aniket01yadav/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aniket01yadav/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aniket01yadav/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Aniket01yadav/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Aniket01yadav/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Aniket01yadav/DSA/tree/master/0409-longest-palindrome) |
