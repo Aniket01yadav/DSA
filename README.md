@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aniket01yadav/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Aniket01yadav/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Aniket01yadav/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aniket01yadav/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aniket01yadav/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aniket01yadav/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniket01yadav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Aniket01yadav/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Aniket01yadav/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aniket01yadav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
