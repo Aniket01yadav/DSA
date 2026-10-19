@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aniket01yadav/DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Aniket01yadav/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aniket01yadav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aniket01yadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aniket01yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniket01yadav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aniket01yadav/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aniket01yadav/DSA/tree/master/0242-valid-anagram) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aniket01yadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aniket01yadav/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aniket01yadav/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Aniket01yadav/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aniket01yadav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aniket01yadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Ternary Search
 |  |
