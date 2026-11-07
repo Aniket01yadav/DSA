@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aniket01yadav/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Aniket01yadav/DSA/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aniket01yadav/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Aniket01yadav/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aniket01yadav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aniket01yadav/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Aniket01yadav/DSA/tree/master/2409-count-days-spent-together) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Aniket01yadav/DSA/tree/master/1143-longest-common-subsequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Aniket01yadav/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aniket01yadav/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aniket01yadav/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Aniket01yadav/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
