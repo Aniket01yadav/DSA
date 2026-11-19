@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aniket01yadav/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/Aniket01yadav/DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Aniket01yadav/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Aniket01yadav/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aniket01yadav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aniket01yadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aniket01yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Aniket01yadav/DSA/tree/master/1143-longest-common-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Aniket01yadav/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
