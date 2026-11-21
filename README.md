@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aniket01yadav/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Aniket01yadav/DSA/tree/master/0239-sliding-window-maximum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aniket01yadav/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aniket01yadav/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/Aniket01yadav/DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Aniket01yadav/DSA/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aniket01yadav/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aniket01yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aniket01yadav/DSA/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aniket01yadav/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aniket01yadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aniket01yadav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aniket01yadav/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Aniket01yadav/DSA/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aniket01yadav/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aniket01yadav/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Linked List
 |  |
